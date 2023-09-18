@@ -1,10 +1,11 @@
 # PengalamanBelajar
 Repository Ini Berisi Pengalaman Belajarku di Dicoding
 
-**14 Juni 2021**  
-Belajar kelas Memulai Pemrograman dengan Java. (Progres 21%)
-  * Belajar tentang apa itu Java dan alasan menggunakannya.
-  * Belajar tools yang dapat digunakan untuk menjalankan bahasa pemrograman Java.
+**4 September 2023**  
+Belajar kelas Dasar Structured Query Language (SQL). (Progres 30%)
+  * Persiapan Belajar terdiri dari Persetujuan Hak Cipta, Prasyarat Tools, Glosarium sampai Daftar Referensi sebelum memulai belajar kelas Dasar Structured Query Language (SQL).
+  * Belajar Pengenalan Data dan Basis data yang terdiri dari Mengenal Data, Jenis-Jenis Data, Tipe-Tipe Data sampai Mengenal Basis Data Relasional.
+  * Belajar Rangkuman mengenai Data dan Basis Data serta mengerjakan Kuis Pengenalan Data dan Basis Data Data.
 
 **15 Juni 2021**  
 Belajar kelas Memulai Pemrograman dengan Java.(Progress 56%)
